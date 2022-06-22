@@ -1,0 +1,240 @@
+[
+  {
+    "title": "MozartPiano",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://37.251.146.169:8300/stream/1/",
+    "duration": 53000
+  },
+  {
+    "title": "piano solo",
+    "artist": "report",
+    "bitmapUri": "",
+    "trackUri": "  http://pianosolo.streamguys.net/live",
+    "duration": 53000
+  },
+  {
+    "title": "pinoClam",
+    "artist": "Piano",
+    "bitmapUri": "",
+    "trackUri": "https://listen.radioking.com/radio/49831/stream/86743",
+    "duration": 141000
+  },
+  {
+    "title": "jazz",
+    "artist": "Frank Nora",
+    "bitmapUri": "",
+    "trackUri": "http://east-mp3-128.streamthejazzgroove.com/stream",
+    "duration": 48000
+  },
+  {
+    "title": "EssyJazz",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://us4.internet-radio.com:8266/",
+    "duration": 53000
+  },
+  {
+    "title": "FaB",
+    "artist": "Trang",
+    "bitmapUri": "",
+    "trackUri": "https://4146.radio2.thzhost.com/;?type=http%26nocache%3D1188432",
+    "duration": 53000
+  },
+  {
+    "title": "Mision river",
+    "artist": "Church",
+    "bitmapUri": "",
+    "trackUri": "http://rmcradio.hostpleng.com:9550/stream/1/",
+    "duration": 53000
+  },
+  {
+    "title": "worship",
+    "artist": "Frank Nora",
+    "bitmapUri": "",
+    "trackUri": "https://streams.cbnradio.com/praise-128K?app=cbnplayer",
+    "duration": 48000
+  },
+  {
+    "title": "Christian",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://ice64.securenetsystems.net/CLR1MP3",
+    "duration": 53000
+  },
+  {
+    "title": "88news",
+    "artist": "News",
+    "bitmapUri": "",
+    "trackUri": "http://prdonline.prd.go.th:8200 ",
+    "duration": 77000
+  },
+  {
+    "title": "BBC",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "duration": 53000
+  },
+  {
+    "title": "NPR",
+    "artist": "Piano",
+    "bitmapUri": "",
+    "trackUri": "https://npr-ice.streamguys1.com/live.mp3",
+    "duration": 141000
+  },
+  {
+    "title": "Fox news",
+    "artist": "report",
+    "bitmapUri": "",
+    "trackUri": "https://streaming-ent.shoutcast.com/foxnews",
+    "duration": 53000
+  },
+  {
+    "title": "ABC",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://live-radio01.mediahubaustralia.com/PBW/aac/",
+    "duration": 53000
+  },
+  {
+    "title": "Country",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://streaming.radiostreamlive.com/radiocountrylive_devices",
+    "duration": 53000
+  },
+  {
+    "title": "Audio.in",
+    "artist": "Pop",
+    "bitmapUri": "",
+    "trackUri": "http://112.121.150.133:8022/stream",
+    "duration": 133000
+  },
+  {
+    "title": "Suksan",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://stream.pjcdn.com:9000/SuksonRadio",
+    "duration": 53000
+  },
+  {
+    "title": "ThaiMusic",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://listen.thai-radio.net/trlq",
+    "duration": 53000
+  },
+  {
+    "title": "GreenWave",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://atimeonline.smartclick.co.th/green",
+    "duration": 53000
+  },
+  {
+    "title": "เพื่อชีวิต",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://27.254.142.208:8300/stream/1/",
+    "duration": 53000
+  },
+  {
+    "title": "OnairLoongt",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://media.login.in.th:8200/;stream.mp3",
+    "duration": 53000
+  },
+  {
+    "title": "95.5",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://24863.live.streamtheworld.com/HITZ_955AAC_128_SC?dist=TRITON-WEB&pname=TDSdk&ttag=work%253A",
+    "duration": 53000
+  },
+  {
+    "title": "request",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://cast.requestradio.in.th:820/;stream",
+    "duration": 53000
+  },
+  {
+    "title": "Krung",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://ohmi-design.com:8708/;",
+    "duration": 53000
+  },
+  {
+    "title": "world service",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://prdonline.prd.go.th:8018/;stream.mp3",
+    "duration": 53000
+  },
+  {
+    "title": "100.5",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://rstream.mcot.net:8000/fm1005",
+    "duration": 53000
+  },
+  {
+    "title": "Chula",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://radio11.plathong.net/7590/;stream.mp3",
+    "duration": 53000
+  },
+  {
+    "title": "fm 93.5",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "duration": 53000
+  },
+  {
+    "title": "fm1",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": " https://fmone.plathong.net/7010/;stream.mp3",
+    "duration": 53000
+  },
+  {
+    "title": "fm105",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": " http://prdonline.prd.go.th:8210/;stream ",
+    "duration": 53000
+  },
+  {
+    "title": "cool",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://ohmi-design.com:8170/",
+    "duration": 53000
+  },
+  {
+    "title": "Js100",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://112.121.151.133:8184/;&type=mp3",
+    "duration": 53000
+  },
+  {
+    "title": "FM91",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "http://122.155.16.48:8955/;stream",
+    "duration": 53000
+  },
+  {
+    "title": "Blue",
+    "artist": "",
+    "bitmapUri": "",
+    "trackUri": "https://14843.live.streamtheworld.com/AMAZING_BLUES_S01.mp3",
+    "duration": 53000
+  }
+]
